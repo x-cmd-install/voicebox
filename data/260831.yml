@@ -1,0 +1,64 @@
+about:
+  description: The open-source AI voice studio. Clone, dictate, create.
+  license: MIT
+  homepage: https://voicebox.sh
+  head: 51f49de
+  archived: false
+  latestVersion: v0.5.0
+  collectedAt: 2026-08-31T06:05:06Z
+timeline:
+  created: 2026-01-25
+  lastCommit: 2026-07-27
+  lastRelease: 2026-04-25
+popularity:
+  star: 51911
+  watcher: 239
+  fork: 6468
+  release: 25
+  contributor: 65
+  pullRequest: 224
+  issue: 695
+language:
+  TypeScript: 1368820
+  Python: 904840
+  Rust: 223173
+  Shell: 19794
+  Just: 18203
+  JavaScript: 10538
+  CSS: 9468
+  Dockerfile: 4119
+  HTML: 2193
+totalLine: 2561148
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 0
+    openPR: 54
+    closedIssue: 5
+    openIssue: 41
+    commit: 0
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 36
+    openPR: 110
+    closedIssue: 26
+    openIssue: 155
+    commit: 50
+  last180d:
+    since: 2026-03-04
+    release: 11
+    mergedPR: 117
+    openPR: 160
+    closedIssue: 114
+    openIssue: 397
+    commit: 306
+  last360d:
+    since: 2025-09-05
+    release: 25
+    mergedPR: 147
+    openPR: 164
+    closedIssue: 193
+    openIssue: 502
+    commit: 562
