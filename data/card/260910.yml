@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.0"
   latestRelease: "v0.5.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:15:22Z
+  collectedAt: 2026-09-10T23:44:06Z
 timeline:
   created: 2026-01-25
   lastCommit: 2026-07-27
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-04-25
   lastPrerelease: 
 popularity:
-  star: 52906
-  watcher: 244
-  fork: 6604
+  star: 52930
+  watcher: 245
+  fork: 6605
   release: 25
   contributor: 65
   pullRequest: 379
@@ -91,7 +91,7 @@ total:
   commit: 638
 ---
 path: /home/runner/.x-repo/github.com/jamiepine/voicebox
-collectedAt: 2026-09-10T18:15:29Z
+collectedAt: 2026-09-10T23:44:11Z
 loc:
   Json:
     code: 32232
