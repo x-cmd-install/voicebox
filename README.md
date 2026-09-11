@@ -38,7 +38,7 @@ Total: **92,582** lines of code across **449** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 52,954 · **Forks**: 6,609 · **Open issues**: 706 · **Contributors**: 65
+- **Stars**: 52,998 · **Forks**: 6,621 · **Open issues**: 706 · **Contributors**: 65
 
 ## Totals (cumulative)
 
@@ -89,4 +89,4 @@ Install metadata for voicebox lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:18:48Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:27:32Z._
