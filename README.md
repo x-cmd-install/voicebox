@@ -38,22 +38,22 @@ Total: **92,582** lines of code across **449** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 53,083 · **Forks**: 6,634 · **Open issues**: 708 · **Contributors**: 65
+- **Stars**: 53,153 · **Forks**: 6,641 · **Open issues**: 709 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 147 · **Open PRs**: 172 · **Closed issues**: 193 · **Open issues**: 515 · **Commits**: 638
+- **Releases**: 25 · **Merged PRs**: 147 · **Open PRs**: 171 · **Closed issues**: 193 · **Open issues**: 516 · **Commits**: 638
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 21 | 2 | 26 | 0 |
-| last60d | 2026-07-15 | 0 | 16 | 84 | 12 | 75 | 33 |
-| 90d | 2026-06-15 | 0 | 36 | 114 | 26 | 145 | 50 |
-| last180d | 2026-03-17 | 8 | 92 | 167 | 90 | 386 | 157 |
-| 360d | 2025-09-18 | 25 | 147 | 172 | 193 | 515 | 562 |
-| last720d | 2024-09-23 | 25 | 147 | 172 | 193 | 515 | 638 |
+| 30d | 2026-08-15 | 0 | 0 | 21 | 2 | 26 | 0 |
+| last60d | 2026-07-16 | 0 | 15 | 83 | 12 | 76 | 14 |
+| 90d | 2026-06-16 | 0 | 36 | 113 | 26 | 145 | 50 |
+| last180d | 2026-03-18 | 7 | 87 | 166 | 89 | 385 | 115 |
+| 360d | 2025-09-19 | 25 | 147 | 171 | 193 | 516 | 562 |
+| last720d | 2024-09-24 | 25 | 147 | 171 | 193 | 516 | 638 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for voicebox lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:24:18Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:37:02Z._
