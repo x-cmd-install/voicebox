@@ -4,7 +4,7 @@
 
 The open-source AI voice studio. Clone, dictate, create.
 
-![voicebox](https://repo.x-cmd.io/voicebox.svg?lang=zh)
+[![x-cmd/install — voicebox Code Quality Monitoring Repo Card](https://repo.x-cmd.io/voicebox.svg?lang=zh)](https://x-cmd.com/install/voicebox)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install voicebox
 
 ## 流行度
 
-- **Star**: 54,959 · **Fork**: 6,832 · **开放 issue**: 716 · **贡献者**: 65
+- **Star**: 55,222 · **Fork**: 6,887 · **开放 issue**: 716 · **贡献者**: 65
 
 ## 累计统计
 
-- **发布数**: 25 · **已合并 PR**: 147 · **开放 PR**: 176 · **已关闭 issue**: 194 · **开放 issue**: 522 · **提交数**: 638
+- **发布数**: 25 · **已合并 PR**: 147 · **开放 PR**: 177 · **已关闭 issue**: 194 · **开放 issue**: 522 · **提交数**: 638
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 23 | 2 | 32 | 0 |
-| last60d | 2026-07-20 | 0 | 12 | 81 | 7 | 75 | 14 |
-| 90d | 2026-06-20 | 0 | 35 | 115 | 24 | 144 | 50 |
-| last180d | 2026-03-22 | 7 | 82 | 170 | 85 | 376 | 115 |
-| 360d | 2025-09-23 | 25 | 147 | 176 | 194 | 522 | 562 |
-| last720d | 2024-09-28 | 25 | 147 | 176 | 194 | 522 | 638 |
+| 30d | 2026-08-21 | 0 | 0 | 22 | 1 | 32 | 0 |
+| last60d | 2026-07-22 | 0 | 8 | 73 | 6 | 71 | 14 |
+| 90d | 2026-06-22 | 0 | 35 | 112 | 23 | 139 | 50 |
+| last180d | 2026-03-24 | 7 | 82 | 171 | 84 | 372 | 115 |
+| 360d | 2025-09-25 | 25 | 147 | 177 | 194 | 522 | 562 |
+| last720d | 2024-09-30 | 25 | 147 | 177 | 194 | 522 | 638 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ voicebox 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:35:04Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:27:24Z._

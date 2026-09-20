@@ -4,7 +4,7 @@
 
 The open-source AI voice studio. Clone, dictate, create.
 
-![voicebox](https://repo.x-cmd.io/voicebox.svg)
+[![x-cmd/install — voicebox Code Quality Monitoring Repo Card](https://repo.x-cmd.io/voicebox.svg)](https://x-cmd.com/install/voicebox)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **92,582** lines of code across **449** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 54,959 · **Forks**: 6,832 · **Open issues**: 716 · **Contributors**: 65
+- **Stars**: 55,222 · **Forks**: 6,887 · **Open issues**: 716 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 147 · **Open PRs**: 176 · **Closed issues**: 194 · **Open issues**: 522 · **Commits**: 638
+- **Releases**: 25 · **Merged PRs**: 147 · **Open PRs**: 177 · **Closed issues**: 194 · **Open issues**: 522 · **Commits**: 638
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 23 | 2 | 32 | 0 |
-| last60d | 2026-07-20 | 0 | 12 | 81 | 7 | 75 | 14 |
-| 90d | 2026-06-20 | 0 | 35 | 115 | 24 | 144 | 50 |
-| last180d | 2026-03-22 | 7 | 82 | 170 | 85 | 376 | 115 |
-| 360d | 2025-09-23 | 25 | 147 | 176 | 194 | 522 | 562 |
-| last720d | 2024-09-28 | 25 | 147 | 176 | 194 | 522 | 638 |
+| 30d | 2026-08-21 | 0 | 0 | 22 | 1 | 32 | 0 |
+| last60d | 2026-07-22 | 0 | 8 | 73 | 6 | 71 | 14 |
+| 90d | 2026-06-22 | 0 | 35 | 112 | 23 | 139 | 50 |
+| last180d | 2026-03-24 | 7 | 82 | 171 | 84 | 372 | 115 |
+| 360d | 2025-09-25 | 25 | 147 | 177 | 194 | 522 | 562 |
+| last720d | 2024-09-30 | 25 | 147 | 177 | 194 | 522 | 638 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for voicebox lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:35:03Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:27:24Z._
