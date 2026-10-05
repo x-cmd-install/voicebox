@@ -14,14 +14,14 @@ x install voicebox
 
 ## Code insight
 
-Total: **94,306** lines of code across **463** files in the top 5 languages.
+Total: **94,424** lines of code across **464** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 32,235 | 0 | 3 | 45 |
 | Tsx | 27,277 | 967 | 2,197 | 148 |
-| Python | 21,984 | 1,566 | 4,811 | 136 |
-| TypeScript | 7,160 | 1,032 | 973 | 116 |
+| Python | 22,101 | 1,576 | 4,845 | 137 |
+| TypeScript | 7,161 | 1,032 | 973 | 116 |
 | Rust | 4,123 | 383 | 600 | 18 |
 
 ## Source
@@ -38,22 +38,22 @@ Total: **94,306** lines of code across **463** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 56,297 · **Forks**: 7,014 · **Open issues**: 729 · **Contributors**: 90
+- **Stars**: 56,396 · **Forks**: 7,025 · **Open issues**: 729 · **Contributors**: 90
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 176 · **Open PRs**: 143 · **Closed issues**: 203 · **Open issues**: 526 · **Commits**: 743
+- **Releases**: 25 · **Merged PRs**: 181 · **Open PRs**: 148 · **Closed issues**: 204 · **Open issues**: 525 · **Commits**: 750
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 0 | 29 | 12 | 2 | 29 | 55 |
-| last60d | 2026-08-05 | 0 | 29 | 45 | 8 | 67 | 67 |
-| 90d | 2026-07-06 | 0 | 53 | 68 | 22 | 116 | 123 |
-| last180d | 2026-04-07 | 7 | 109 | 137 | 86 | 351 | 211 |
-| 360d | 2025-10-09 | 25 | 176 | 143 | 203 | 526 | 660 |
-| last720d | 2024-10-14 | 25 | 176 | 143 | 203 | 526 | 743 |
+| 30d | 2026-09-05 | 0 | 34 | 17 | 3 | 26 | 62 |
+| last60d | 2026-08-06 | 0 | 34 | 50 | 9 | 62 | 74 |
+| 90d | 2026-07-07 | 0 | 58 | 73 | 23 | 113 | 130 |
+| last180d | 2026-04-08 | 7 | 114 | 142 | 87 | 348 | 218 |
+| 360d | 2025-10-10 | 25 | 181 | 148 | 204 | 525 | 667 |
+| last720d | 2024-10-15 | 25 | 181 | 148 | 204 | 525 | 750 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for voicebox lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T07:05:38Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T07:02:50Z._
