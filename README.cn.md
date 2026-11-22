@@ -32,53 +32,58 @@ x install voicebox
 
 ## 发布
 
-- **最新版本**: `v0.5.0` (2026-04-25)
+- **最新版本**: `v0.6.0` (2026-11-21)
 - **最近提交**: 2026-10-07
-- **Release 含资产**: 20 个
+- **Release 含资产**: 25 个
 
 ## 流行度
 
-- **Star**: 61,011 · **Fork**: 7,689 · **开放 issue**: 765 · **贡献者**: 91
+- **Star**: 61,110 · **Fork**: 7,712 · **开放 issue**: 769 · **贡献者**: 91
 
 ## 累计统计
 
-- **发布数**: 25 · **已合并 PR**: 190 · **开放 PR**: 145 · **已关闭 issue**: 354 · **开放 issue**: 411 · **提交数**: 813
+- **发布数**: 26 · **已合并 PR**: 190 · **开放 PR**: 145 · **已关闭 issue**: 354 · **开放 issue**: 415 · **提交数**: 813
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 0 | 21 | 1 | 19 | 0 |
-| last60d | 2026-09-22 | 0 | 43 | 43 | 7 | 39 | 86 |
-| 90d | 2026-08-23 | 0 | 43 | 55 | 14 | 63 | 97 |
-| last180d | 2026-05-25 | 0 | 79 | 114 | 91 | 176 | 202 |
-| 360d | 2025-11-26 | 25 | 190 | 145 | 354 | 411 | 723 |
-| last720d | 2024-12-01 | 25 | 190 | 145 | 354 | 411 | 813 |
+| 30d | 2026-10-23 | 1 | 0 | 21 | 1 | 23 | 0 |
+| last60d | 2026-09-23 | 1 | 43 | 43 | 7 | 43 | 85 |
+| 90d | 2026-08-24 | 1 | 43 | 55 | 13 | 65 | 95 |
+| last180d | 2026-05-26 | 1 | 79 | 113 | 89 | 177 | 202 |
+| 360d | 2025-11-27 | 26 | 190 | 145 | 354 | 415 | 723 |
+| last720d | 2024-12-02 | 26 | 190 | 145 | 354 | 415 | 813 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [cuda-libs-cu128-v1.tar.gz](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/cuda-libs-cu128-v1.tar.gz) | 2.0 GiB | `native/unknown` |
-| [cuda-libs-cu128-v1.tar.gz.sha256](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/cuda-libs-cu128-v1.tar.gz.sha256) | 93 B | `other` |
-| [cuda-libs.json](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/cuda-libs.json) | 193 B | `other` |
-| [latest.json](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/latest.json) | 13.7 KiB | `other` |
-| [voicebox-server-cuda.tar.gz](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/voicebox-server-cuda.tar.gz) | 986.8 MiB | `native/unknown` |
-| [voicebox-server-cuda.tar.gz.sha256](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/voicebox-server-cuda.tar.gz.sha256) | 95 B | `other` |
-| [Voicebox_0.5.0_aarch64.dmg](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_0.5.0_aarch64.dmg) | 513.1 MiB | `other` |
-| [Voicebox_0.5.0_x64-setup.exe](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_0.5.0_x64-setup.exe) | 516.8 MiB | `other` |
-| [Voicebox_0.5.0_x64-setup.exe.sig](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_0.5.0_x64-setup.exe.sig) | 420 B | `other` |
-| [Voicebox_0.5.0_x64-setup.nsis.zip](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_0.5.0_x64-setup.nsis.zip) | 516.8 MiB | `other` |
-| [Voicebox_0.5.0_x64-setup.nsis.zip.sig](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_0.5.0_x64-setup.nsis.zip.sig) | 424 B | `other` |
-| [Voicebox_0.5.0_x64.dmg](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_0.5.0_x64.dmg) | 560.1 MiB | `other` |
-| [Voicebox_0.5.0_x64_en-US.msi](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_0.5.0_x64_en-US.msi) | 517.9 MiB | `other` |
-| [Voicebox_0.5.0_x64_en-US.msi.sig](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_0.5.0_x64_en-US.msi.sig) | 420 B | `other` |
-| [Voicebox_0.5.0_x64_en-US.msi.zip](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_0.5.0_x64_en-US.msi.zip) | 517.9 MiB | `other` |
-| [Voicebox_0.5.0_x64_en-US.msi.zip.sig](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_0.5.0_x64_en-US.msi.zip.sig) | 424 B | `other` |
-| [Voicebox_aarch64.app.tar.gz](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_aarch64.app.tar.gz) | 511.8 MiB | `native/linux/arm64` |
-| [Voicebox_aarch64.app.tar.gz.sig](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_aarch64.app.tar.gz.sig) | 408 B | `other` |
-| [Voicebox_x64.app.tar.gz](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_x64.app.tar.gz) | 558.8 MiB | `native/unknown` |
-| [Voicebox_x64.app.tar.gz.sig](https://github.com/jamiepine/voicebox/releases/download/v0.5.0/Voicebox_x64.app.tar.gz.sig) | 408 B | `other` |
+| [cuda-libs-cu128-v1.tar.gz](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/cuda-libs-cu128-v1.tar.gz) | 2.0 GiB | `native/unknown` |
+| [cuda-libs-cu128-v1.tar.gz.sha256](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/cuda-libs-cu128-v1.tar.gz.sha256) | 93 B | `other` |
+| [cuda-libs.json](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/cuda-libs.json) | 193 B | `other` |
+| [latest.json](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/latest.json) | 24.7 KiB | `other` |
+| [rocm-libs-rocm7.2-v1.tar.gz](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/rocm-libs-rocm7.2-v1.tar.gz) | 515.8 MiB | `native/unknown` |
+| [rocm-libs-rocm7.2-v1.tar.gz.sha256](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/rocm-libs-rocm7.2-v1.tar.gz.sha256) | 95 B | `other` |
+| [rocm-libs.json](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/rocm-libs.json) | 197 B | `other` |
+| [voicebox-server-cuda.tar.gz](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/voicebox-server-cuda.tar.gz) | 996.2 MiB | `native/unknown` |
+| [voicebox-server-cuda.tar.gz.sha256](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/voicebox-server-cuda.tar.gz.sha256) | 95 B | `other` |
+| [voicebox-server-rocm.tar.gz](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/voicebox-server-rocm.tar.gz) | 1.7 GiB | `native/unknown` |
+| [voicebox-server-rocm.tar.gz.sha256](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/voicebox-server-rocm.tar.gz.sha256) | 95 B | `other` |
+| [Voicebox_0.6.0_aarch64.dmg](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_aarch64.dmg) | 616.2 MiB | `other` |
+| [Voicebox_0.6.0_x64-setup.exe](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64-setup.exe) | 543.3 MiB | `other` |
+| [Voicebox_0.6.0_x64-setup.exe.sig](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64-setup.exe.sig) | 420 B | `other` |
+| [Voicebox_0.6.0_x64-setup.nsis.zip](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64-setup.nsis.zip) | 543.3 MiB | `other` |
+| [Voicebox_0.6.0_x64-setup.nsis.zip.sig](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64-setup.nsis.zip.sig) | 424 B | `other` |
+| [Voicebox_0.6.0_x64.dmg](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64.dmg) | 562.7 MiB | `other` |
+| [Voicebox_0.6.0_x64_en-US.msi](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64_en-US.msi) | 544.3 MiB | `other` |
+| [Voicebox_0.6.0_x64_en-US.msi.sig](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64_en-US.msi.sig) | 420 B | `other` |
+| [Voicebox_0.6.0_x64_en-US.msi.zip](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64_en-US.msi.zip) | 544.3 MiB | `other` |
+| [Voicebox_0.6.0_x64_en-US.msi.zip.sig](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64_en-US.msi.zip.sig) | 424 B | `other` |
+| [Voicebox_aarch64.app.tar.gz](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_aarch64.app.tar.gz) | 614.3 MiB | `native/linux/arm64` |
+| [Voicebox_aarch64.app.tar.gz.sig](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_aarch64.app.tar.gz.sig) | 408 B | `other` |
+| [Voicebox_x64.app.tar.gz](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_x64.app.tar.gz) | 561.3 MiB | `native/unknown` |
+| [Voicebox_x64.app.tar.gz.sig](https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_x64.app.tar.gz.sig) | 408 B | `other` |
 
 ## 改进这些数据
 
@@ -89,4 +94,4 @@ voicebox 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T07:52:11Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T08:49:08Z._
