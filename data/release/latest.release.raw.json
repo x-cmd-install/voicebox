@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2111927623,
       "digest": "sha256:c62a826f87491f33cb1975eda73a7db3bc40a7f97f71fe2e4f7ea9445e039a8f",
-      "download_count": 2231,
+      "download_count": 2949,
       "created_at": "2026-11-21T10:56:50Z",
       "updated_at": "2026-11-21T10:58:08Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/cuda-libs-cu128-v1.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:6e41e14661772da280515e7e6a887035fe0a7e1964fd7501474893e6fd2c2a42",
-      "download_count": 958,
+      "download_count": 1232,
       "created_at": "2026-11-21T10:56:50Z",
       "updated_at": "2026-11-21T10:56:50Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/cuda-libs-cu128-v1.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 193,
       "digest": "sha256:8874f542dcde762a46c2b9339be06c255f22c3b42b82fbc75f715375c749227f",
-      "download_count": 118,
+      "download_count": 165,
       "created_at": "2026-11-21T10:56:50Z",
       "updated_at": "2026-11-21T10:56:50Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/cuda-libs.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 25260,
       "digest": "sha256:b85b55efccb39e4017ab4de7adf5e3c0de38ff8eb486091fa641e3ecd4e0f06c",
-      "download_count": 40349,
+      "download_count": 51251,
       "created_at": "2026-11-21T11:11:42Z",
       "updated_at": "2026-11-21T11:11:43Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/latest.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 540885044,
       "digest": "sha256:ed587aed278293e693c15f5ffe9644e9b1acdeea61c1e5bed17bab0e2ccd48e3",
-      "download_count": 280,
+      "download_count": 321,
       "created_at": "2026-11-21T10:49:34Z",
       "updated_at": "2026-11-21T10:49:52Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/rocm-libs-rocm7.2-v1.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:38d2cbdd668327a75ae1eebbdfa7a7a08a5f9ed0c727a1972136becccccdcbdf",
-      "download_count": 82,
+      "download_count": 93,
       "created_at": "2026-11-21T10:49:34Z",
       "updated_at": "2026-11-21T10:49:34Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/rocm-libs-rocm7.2-v1.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 197,
       "digest": "sha256:8f82c4a7fa82b070f8ebad44b60b7bee71f438b1667a7890342ef7afad679d87",
-      "download_count": 69,
+      "download_count": 97,
       "created_at": "2026-11-21T10:49:34Z",
       "updated_at": "2026-11-21T10:49:34Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/rocm-libs.json"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1044619491,
       "digest": "sha256:be2a1ee28bb4a4ef4cbd3339a8eb39e961469a15fe8625186ea669a9309936c3",
-      "download_count": 1936,
+      "download_count": 2622,
       "created_at": "2026-11-21T10:56:50Z",
       "updated_at": "2026-11-21T10:57:28Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/voicebox-server-cuda.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:68937b928b8b09e30dc72cb10f72914208dd6e30c8b77ee6ba793aab974674aa",
-      "download_count": 1644,
+      "download_count": 2100,
       "created_at": "2026-11-21T10:56:50Z",
       "updated_at": "2026-11-21T10:56:50Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/voicebox-server-cuda.tar.gz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1818052621,
       "digest": "sha256:249f75a548551e59e2d7f5cb77a55b42c642b202ad93410abdf0bdd223bd0d66",
-      "download_count": 398,
+      "download_count": 459,
       "created_at": "2026-11-21T10:49:34Z",
       "updated_at": "2026-11-21T10:50:24Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/voicebox-server-rocm.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:36e46a00c182ac515d1b2bee8c0e7810c4e5bb2d4100737ae18e99058360c445",
-      "download_count": 62,
+      "download_count": 71,
       "created_at": "2026-11-21T10:49:34Z",
       "updated_at": "2026-11-21T10:49:34Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/voicebox-server-rocm.tar.gz.sha256"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 646106955,
       "digest": "sha256:b1873c5794ea68ba52803a74a177674612806577c4811bc95395b5ba71e94c84",
-      "download_count": 2796,
+      "download_count": 3609,
       "created_at": "2026-11-21T10:58:04Z",
       "updated_at": "2026-11-21T10:58:26Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_aarch64.dmg"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 569736215,
       "digest": "sha256:94cc2cffa7f76f8b6cbbc6a4fbdbfbf3d82e9f7ef6add0e21b60f47039d02bca",
-      "download_count": 2265,
+      "download_count": 2833,
       "created_at": "2026-11-21T10:57:12Z",
       "updated_at": "2026-11-21T10:57:26Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64-setup.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 420,
       "digest": "sha256:f1f12043bffef1c152b393b6eb1df2444d157df6d3061e1857fcb7a4ee40ed64",
-      "download_count": 92,
+      "download_count": 130,
       "created_at": "2026-11-21T10:57:27Z",
       "updated_at": "2026-11-21T10:57:27Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64-setup.exe.sig"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 569736369,
       "digest": "sha256:6b748e2d59f32e066379bc8217a512f67f19377141c144329e4bf5c75fe3321b",
-      "download_count": 72,
+      "download_count": 114,
       "created_at": "2026-11-21T10:57:27Z",
       "updated_at": "2026-11-21T10:57:41Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64-setup.nsis.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 424,
       "digest": "sha256:cb00d6545e0f181c08d2210e2a3b28698161609b7c148af13fd0080127108c3a",
-      "download_count": 41,
+      "download_count": 63,
       "created_at": "2026-11-21T10:57:42Z",
       "updated_at": "2026-11-21T10:57:42Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64-setup.nsis.zip.sig"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 590011906,
       "digest": "sha256:2b73291b5ada60a774c2ad6234a9e08bd30a1398ab40a5699722ac5b1c320c79",
-      "download_count": 477,
+      "download_count": 599,
       "created_at": "2026-11-21T11:13:46Z",
       "updated_at": "2026-11-21T11:14:15Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64.dmg"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 570724352,
       "digest": "sha256:4d97cd976671c6f321c115b55d90bfe6aa6dd049bc9fb1c1c20361eb710453bd",
-      "download_count": 9245,
+      "download_count": 11649,
       "created_at": "2026-11-21T10:56:41Z",
       "updated_at": "2026-11-21T10:56:54Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64_en-US.msi"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 420,
       "digest": "sha256:fdbec7f2c64aed285ea75c2f56f1ef27172a8d49119b0f69f5a0c7d674f9f27e",
-      "download_count": 52,
+      "download_count": 82,
       "created_at": "2026-11-21T10:56:54Z",
       "updated_at": "2026-11-21T10:56:55Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64_en-US.msi.sig"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 570724506,
       "digest": "sha256:acafe9cd91f328a9f33b1ba9306a104da308e5b5c2c481303478a396809b88af",
-      "download_count": 1608,
+      "download_count": 1942,
       "created_at": "2026-11-21T10:56:55Z",
       "updated_at": "2026-11-21T10:57:11Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64_en-US.msi.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 424,
       "digest": "sha256:f3bd13841e77637397a4b4f941f8aab1e61ca13158631ceca102adcccc3159e5",
-      "download_count": 40,
+      "download_count": 63,
       "created_at": "2026-11-21T10:57:12Z",
       "updated_at": "2026-11-21T10:57:12Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_0.6.0_x64_en-US.msi.zip.sig"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 644109016,
       "digest": "sha256:ea7c9096ff03aa0da86b769d554f2f48a7c2dee7625ceb131814886b805d3119",
-      "download_count": 1020,
+      "download_count": 1374,
       "created_at": "2026-11-21T10:55:45Z",
       "updated_at": "2026-11-21T10:56:12Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_aarch64.app.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 408,
       "digest": "sha256:cd7641a7b896e651d797a25e00e2c7c05aa9601fa3ce3e3c370968d92a16741d",
-      "download_count": 36,
+      "download_count": 57,
       "created_at": "2026-11-21T10:56:13Z",
       "updated_at": "2026-11-21T10:56:13Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_aarch64.app.tar.gz.sig"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 588603581,
       "digest": "sha256:cdac3afaeece2cbb76d14ad98f22ff3b531fdd4f163111aa8b55ac76c02f7968",
-      "download_count": 145,
+      "download_count": 234,
       "created_at": "2026-11-21T11:11:22Z",
       "updated_at": "2026-11-21T11:11:40Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_x64.app.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 408,
       "digest": "sha256:20f7b2732743fbf38c1853ef65678c7480a1cb00a7f3d3b43d31640ddeb9b701",
-      "download_count": 38,
+      "download_count": 60,
       "created_at": "2026-11-21T11:11:40Z",
       "updated_at": "2026-11-21T11:11:41Z",
       "browser_download_url": "https://github.com/jamiepine/voicebox/releases/download/v0.6.0/Voicebox_x64.app.tar.gz.sig"
