@@ -1,0 +1,183 @@
+about:
+  description: "The open-source AI voice studio. Clone, dictate, create."
+  license: MIT
+  homepage: https://voicebox.sh
+  head: a24f8ad
+  archived: false
+  latestVersion: "v0.6.1"
+  latestRelease: "v0.6.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T09:27:51Z
+timeline:
+  created: 2026-01-25
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 
+popularity:
+  star: 61429
+  watcher: 260
+  fork: 7758
+  release: 27
+  contributor: 105
+  pullRequest: 519
+  issue: 776
+language:
+  Python: 1268753
+  TypeScript: 1074951
+  Rust: 241449
+  Just: 23485
+  Shell: 20990
+  JavaScript: 7685
+  Dockerfile: 4951
+  CSS: 4114
+  HTML: 2193
+totalBytes: 2648571
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 2
+    mergedPR: 37
+    openPR: 9
+    closedIssue: 8
+    openIssue: 22
+    commit: 63
+  last60d:
+    since: 2026-09-29
+    release: 2
+    mergedPR: 80
+    openPR: 27
+    closedIssue: 11
+    openIssue: 42
+    commit: 156
+  last90d:
+    since: 2026-08-30
+    release: 2
+    mergedPR: 80
+    openPR: 32
+    closedIssue: 23
+    openIssue: 59
+    commit: 167
+  last180d:
+    since: 2026-06-01
+    release: 2
+    mergedPR: 116
+    openPR: 84
+    closedIssue: 98
+    openIssue: 166
+    commit: 275
+  last360d:
+    since: 2025-12-03
+    release: 27
+    mergedPR: 227
+    openPR: 108
+    closedIssue: 369
+    openIssue: 407
+    commit: 802
+  last720d:
+    since: 2024-12-08
+    release: 27
+    mergedPR: 227
+    openPR: 108
+    closedIssue: 369
+    openIssue: 407
+    commit: 892
+total:
+  release: 27
+  mergedPR: 227
+  openPR: 108
+  closedIssue: 369
+  openIssue: 407
+  commit: 892
+---
+path: /home/runner/.x-repo/github.com/jamiepine/voicebox
+collectedAt: 2026-11-28T09:27:57Z
+loc:
+  Json:
+    code: 32543
+    comments: 0
+    blanks: 3
+    files: 42
+  Python:
+    code: 28423
+    comments: 1908
+    blanks: 6315
+    files: 175
+  Tsx:
+    code: 20345
+    comments: 864
+    blanks: 1629
+    files: 107
+  TypeScript:
+    code: 6556
+    comments: 941
+    blanks: 877
+    files: 113
+  Rust:
+    code: 4524
+    comments: 392
+    blanks: 640
+    files: 20
+  Sh:
+    code: 426
+    comments: 75
+    blanks: 98
+    files: 7
+  JavaScript:
+    code: 358
+    comments: 33
+    blanks: 20
+    files: 3
+  Css:
+    code: 165
+    comments: 2
+    blanks: 25
+    files: 2
+  Toml:
+    code: 110
+    comments: 32
+    blanks: 20
+    files: 2
+  Dockerfile:
+    code: 59
+    comments: 42
+    blanks: 29
+    files: 1
+  Yaml:
+    code: 44
+    comments: 35
+    blanks: 16
+    files: 2
+  Html:
+    code: 42
+    comments: 0
+    blanks: 0
+    files: 3
+  Xml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 2
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3750
+    blanks: 1458
+    files: 20
+  Text:
+    code: 0
+    comments: 146
+    blanks: 14
+    files: 5
+total:
+  code: 94306
+  comments: 8919
+  blanks: 11301
+  files: 505
+---
+
+---
